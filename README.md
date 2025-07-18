@@ -1,7 +1,8 @@
 # 🚜 Salama Engineering Services – Landing Page
 
 Landing page UI for an engineering services company specializing in loaders, excavators, and heavy equipment projects.
-🌐 Supports both Arabic and English**
+
+🌐 Supports both  **Arabic and English**.
 
 ## 🌐 Live Demo
 [View Website](https://a7medsobih.github.io/salama/)
